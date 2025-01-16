@@ -1,4 +1,4 @@
-## Hi there 👋          Leetcode is fun ⚡
+## Leetcode is fun ⚡
 ![](https://leetcard.jacoblin.cool/Vishva-mitra?ext=heatmap)
 <!--
 **Vishva-mitra/Vishva-mitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Hi there 👋          
 -->
